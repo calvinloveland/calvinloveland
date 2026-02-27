@@ -1,53 +1,68 @@
-<div align="center">
+<p align="center">
+  <img src="https://dummyimage.com/1400x230/111111/f0f0f0&text=CALVIN+LOVELAND+-+STUDIO+CATALOG" alt="studio catalog banner" />
+</p>
 
-# Hi, I'm Calvin Loveland
+<h1 align="center">Calvin Loveland</h1>
+<p align="center"><i>python / automation / nix / plain-text systems</i></p>
 
+<blockquote>
+  I build practical developer tools and experiments with an emphasis on reproducibility, clarity, and fast iteration.
+</blockquote>
 
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="https://dummyimage.com/420x260/1a1a1a/e8e8e8&text=FOCUS" alt="focus panel" />
+      <ul>
+        <li>Python projects</li>
+        <li>CI tooling</li>
+        <li>Nix-based environments</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://dummyimage.com/420x260/1a1a1a/e8e8e8&text=PRINCIPLES" alt="principles panel" />
+      <ul>
+        <li><b>DRY</b>: solve problems once</li>
+        <li><b>Small diffs</b>: safer review and deploy</li>
+        <li><b>Automation-first</b>: remove repeated work</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://dummyimage.com/420x260/1a1a1a/e8e8e8&text=STACK" alt="stack panel" />
+      <p>
+        <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Nix-111111?style=for-the-badge&logo=nixos&logoColor=white" alt="Nix" />
+        <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-[![Followers](https://img.shields.io/github/followers/calvinloveland?style=for-the-badge)](https://github.com/calvinloveland?tab=followers)
-[![Stars](https://img.shields.io/github/stars/calvinloveland?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)](https://github.com/calvinloveland?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=calvinloveland&style=for-the-badge)](https://github.com/calvinloveland)
+<details open>
+  <summary><b>Open project catalog</b></summary>
+  <br />
 
-</div>
+| Collection | Work |
+|---|---|
+| Dev tools | [full-auto-ci](https://github.com/calvinloveland/full-auto-ci), [cli-to-web](https://github.com/calvinloveland/cli-to-web), [operationalize](https://github.com/calvinloveland/operationalize), [plaintext_project_management](https://github.com/calvinloveland/plaintext_project_management) |
+| Games | [lets-holdem-together](https://github.com/calvinloveland/lets-holdem-together), [MancalaAI](https://github.com/calvinloveland/MancalaAI) |
+| Bots | [CryptoRoleBot](https://github.com/calvinloveland/CryptoRoleBot) |
+| Personal | [calnix](https://github.com/calvinloveland/calnix) |
 
-## About me
+</details>
 
-- I build practical developer tooling, automation, and experiments.
-- I like reproducible systems, plain text workflows, and useful scripts.
-- Current focus: Python projects, CI tooling, and Nix-based environments.
-
-## Toolbox
-
-- **Languages:** Python, JavaScript, TypeScript, Nix
-- **Platform:** Linux, GitHub Actions, Dev Containers
-- **Approach:** automation-first, DRY, and iterative delivery
-
-## Projects from the megarepo
-
-| Area | Project | What it does |
-|---|---|---|
-| Dev tools | [full-auto-ci](https://github.com/calvinloveland/full-auto-ci) | CI automation for faster feedback loops |
-| Dev tools | [cli-to-web](https://github.com/calvinloveland/cli-to-web) | Turns CLI workflows into web-accessible interfaces |
-| Dev tools | [operationalize](https://github.com/calvinloveland/operationalize) | Party game + development framework |
-| Dev tools | [operationalize_vscode_ext](https://github.com/calvinloveland/operationalize_vscode_ext) | VS Code extension for operationalize |
-| Dev tools | [plaintext_project_management](https://github.com/calvinloveland/plaintext_project_management) | Project management in plain text |
-| Dev tools | [time_function_with_timeout](https://github.com/calvinloveland/time_function_with_timeout) | Utility for timing and timeout behavior |
-| Games | [lets-holdem-together](https://github.com/calvinloveland/lets-holdem-together) | Poker game project |
-| Games | [conway_game_of_war](https://github.com/calvinloveland/conway_game_of_war) | Conway-inspired browser game |
-| Games | [MancalaAI](https://github.com/calvinloveland/MancalaAI) | Mancala AI player |
-| Bots | [CryptoRoleBot](https://github.com/calvinloveland/CryptoRoleBot) | Discord automation bot |
-| Personal | [calnix](https://github.com/calvinloveland/calnix) | Personal NixOS configuration |
-
-## Programming with AI
-
-- I treat AI as a pair-programmer for exploration, scaffolding, and rapid iteration.
-- I keep humans in control of architecture, tradeoffs, and final quality decisions.
-- I prefer small reviewable diffs, tests-first for fixes, and clear constraints for better AI output.
-- I use AI to automate repetitive work so I can spend more time on design and reliability.
-
-## GitHub stats
-
+<h3>AI workflow note</h3>
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=calvinloveland&show_icons=true&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calvinloveland&layout=compact&theme=transparent" alt="Top languages" />
+I use AI as a practical pair-programmer for research and scaffolding, then tighten with tests and human review.
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/111111/calvinloveland" alt="contribution heatmap" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/calvinloveland?tab=followers"><img src="https://img.shields.io/github/followers/calvinloveland?style=flat-square&color=111111" alt="Followers" /></a>
+  <a href="https://github.com/calvinloveland?tab=repositories"><img src="https://img.shields.io/github/stars/calvinloveland?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=111111" alt="Stars" /></a>
+  <img src="https://komarev.com/ghpvc/?username=calvinloveland&style=flat-square&color=111111" alt="Views" />
 </p>
