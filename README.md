@@ -52,10 +52,6 @@
 
 </details>
 
-<h3>AI workflow note</h3>
-<p>
-I use AI as a practical pair-programmer for research and scaffolding, then tighten with tests and human review.
-</p>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/111111/calvinloveland" alt="contribution heatmap" />
